@@ -1,5 +1,8 @@
-# coding-project-template
+# fullstack_developer_capstone
 
+Fullstack developer capstop project
+
+## Setup Notes
 
 Mongo DB
 ```
